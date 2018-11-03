@@ -1,0 +1,4 @@
+Soru4)
+
+a)  AVL ağacı, denge şartı olan ikili arama ağacıdır.
+    Herhangi bir ikili arama ağacının AVL ağacı olmasının şartı ise bütün düğümlerin çocukları arasındaki yükseklik farkının en fazla bir olmasıdır.
